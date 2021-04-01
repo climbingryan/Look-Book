@@ -19,6 +19,7 @@
   "license": "ISC",
   "dependencies": {
     "caniuse-lite": "^1.0.30001204",
+    "graphql": "^15.5.0",
     "if-env": "^1.0.4"
   },
   "devDependencies": {
