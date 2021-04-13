@@ -9,7 +9,7 @@
 ![madeBy-Kevin](https://img.shields.io/badge/made%20by-kevin-1282A2?style=plastic)
 
 ## Table of Contents
-- [set Up](#Set-Up)
+- [Set Up](#Set-Up)
 - [Description](#Description)
 - [Screenshot](#Screenshots)
 
