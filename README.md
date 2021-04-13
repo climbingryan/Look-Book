@@ -17,7 +17,7 @@
 Download to local enviroment, and then run 'npm install' & 'npm start' in the root directory of the project to view and use it. 
 
 ## Description
-Look-Book is a place where you can look up books using the google books api and save those books. Perhaphs so you can read them later or maybe start making a list to reccomment to other people you might know. 
+Look-Book is a place where you can look up books using the google books api and save those books.Maybe so you can read them later or maybe start making a list to reccomment to other people you might know. 
 
 ## Screenshots
 ![Capture](https://user-images.githubusercontent.com/15613846/114491531-9e36f400-9bcb-11eb-9a62-bb26aa2e2cf2.PNG)
